@@ -34,7 +34,7 @@ public class MediaNota {
 		if (mediaFinal > 6) {
 			System.out.println("O(A) " + nome + " teve a nota final igual a  " + mediaFinal + 
 					", portanto está aprovado(a).");
-		} else if (mediaFinal <= 5 && mediaFinal >= 3) {
+		} else if (mediaFinal <= 5 && mediaFinal >= 4) {
 			System.out.println("O(A) " + nome + " teve a nota final igual a " + mediaFinal + 
 					", portanto está de recuperação.");
 		} else {
